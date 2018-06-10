@@ -3,7 +3,7 @@
 This program is written in React.js & Redux. You need to install [npm](https://www.npmjs.com/) before use.<br>
 To run this client, simply clone it:<br>
 ```
-https://github.com/Tony-Hu/ReactClient.git
+git clone https://github.com/Tony-Hu/ReactClient.git
 ```
 And then CD to the directory:<br>
 ```
