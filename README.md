@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Tony-Hu/ReactClient.svg?branch=master)](https://travis-ci.org/Tony-Hu/ReactClient)
 # React Client of [Web Server Endpoints](https://github.com/Tony-Hu/WebServerEndpoints)
-This program is written in React.js & Redux.<br>
+This program is written in React.js & Redux. You need to install [npm](https://www.npmjs.com/) before use.<br>
 To run this client, simply clone it:<br>
 ```
 https://github.com/Tony-Hu/ReactClient.git
@@ -17,4 +17,4 @@ Run it!
 ```
 npm start
 ```
-to run it on your local machine!
+Now you can check with it on your local machine with the address http://127.0.0.1:3000
